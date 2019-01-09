@@ -28,3 +28,8 @@ table.dataframe td {
     border: 2px solid #ccf;
     background-color: #f4f4ff;
 }
+
+table.dataframe td,
+table.dataframe th {
+    color: black;
+}
